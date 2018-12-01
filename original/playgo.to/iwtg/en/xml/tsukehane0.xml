@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>tsukehane0</name>
+  <size>9</size>
+  <init>B[cc]W[bc]</init>
+  <sequence>
+      <play pos="bb" message="Correct(A)@red">
+      </play>
+      <play pos="bd" message="Correct(B)@red">
+      </play>
+      <play pos="zz" message="Failure@blue">
+      </play>
+  </sequence>
+</data>

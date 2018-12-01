@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>falseeye2</name>
+  <size>9</size>
+  <init>W[dc]W[ec]W[fc]W[gc]W[bc]W[be]W[cc]B[be]B[cd]B[cf]W[ce]W[cg]W[bd]W[ae]B[dd]B[ed]B[fd]B[ee]B[df]B[ef]B[ff]B[ge]W[dg]W[eg]W[fg]W[hd]W[he]W[hf]W[bg]</init>
+  <sequence>
+      <play pos="bf" res="gf">
+        <play pos="gd" message="success - C5 is dead.@red">
+        </play>
+        <play pos="zz" res="gd" message="failed - F5 is now a false eye.@blue">
+        </play>
+      </play>
+      <play pos="de" res="bf" message="failed - C5 is a false eye.@blue">
+      </play>
+      <play pos="zz" res="bf" message="failed@blue">
+      </play>
+  </sequence>
+</data>

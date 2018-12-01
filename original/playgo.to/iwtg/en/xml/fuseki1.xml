@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>fuseki1</name>
+  <size>19</size>
+  <init></init>
+  <moves>
+    <play pos="pd" message="" ></play>
+    <play pos="dd" message="" ></play>
+    <play pos="pp" message="" ></play>
+    <play pos="dp" message="" ></play>
+    <play pos="cj" message="" ></play>
+    <play pos="qj" message="" ></play>
+    <play pos="fq" message="" ></play>
+    <play pos="cn" message="" ></play>
+    <play pos="cg" message="" ></play>
+    <play pos="gc" message="" ></play>
+    <play pos="dr" message="" ></play>
+    <play pos="cq" message="" ></play>
+    <play pos="iq" message="" ></play>
+    <play pos="qn" message="" ></play>
+    <play pos="np" message="" ></play>
+    <play pos="qg" message="" ></play>
+    <play pos="nc" message="" ></play>
+    <play pos="ce" message="" ></play>
+    <play pos="ic" message="" ></play>
+  </moves>
+</data>

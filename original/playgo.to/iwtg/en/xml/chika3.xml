@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>chika3</name>
+  <size>9</size>
+  <init>B[ch]B[dg]B[eg]B[fh]B[gh]W[dh]W[eh]W[fg]W[gg]W[hh]</init>
+  <sequence>
+      <play pos="di" res="gi">
+        <play pos="ei" message="success@red">
+        </play>
+        <play pos="fi" res="ei" message="failed@blue">
+        </play>
+        <play pos="zz" res="fi" message="failed@blue">
+        </play>
+      </play>
+      <play pos="ei" res="gi">
+        <play pos="di" message="success@red">
+        </play>
+        <play pos="fi" res="di" message="failed@blue">
+        </play>
+        <play pos="zz" res="fi" message="failed@blue">
+        </play>
+      </play>
+      <play pos="fi" res="hi">
+        <play pos="di" res="gi">
+          <play pos="ei" message="success@red">
+          </play>
+          <play pos="zz" res="ei" message="failed@blue">
+          </play>
+        </play>
+        <play pos="ei" res="gi">
+          <play pos="di" message="success@red">
+          </play>
+          <play pos="zz" res="di" message="failed@blue">
+          </play>
+        </play>
+        <play pos="gi" res="ei" message="failed@blue">
+        </play>
+        <play pos="zz" res="gi" message="failed-Three black stones can't escape.@blue">
+        </play>
+      </play>
+      <play pos="gi" res="hi">
+        <play pos="fi" res="ei" message="failed@blue">
+        </play>
+        <play pos="zz" res="fi" message="failed@blue">
+        </play>
+      </play>
+      <play pos="hi" res="fi" message="failed-Two black stones can't escape@blue">
+      </play>
+      <play pos="zz" res="gi" message="failed-Two black stones can't escape@blue">
+      </play>
+  </sequence>
+</data>

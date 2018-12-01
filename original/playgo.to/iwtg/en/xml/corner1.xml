@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>corner1</name>
+  <size>9</size>
+  <init>W[bf]W[cf]B[df]B[bg]B[cg]W[dg]B[eg]W[ch]W[dh]B[eh]</init>
+  <sequence>
+      <play pos="bh" res="bi">
+        <play pos="di" res="ag">
+          <play pos="ci" message="success@red">
+          </play>
+          <play pos="ah" res="ai" message="failed@blue">
+          </play>
+          <play pos="zz" res="ah" message="failed@blue">
+          </play>
+        </play>
+        <play pos="ci" res="di">
+          <play pos="ei" res="ag">
+            <play pos="ci" message="success@red">
+            </play>
+            <play pos="ah" res="ai" message="failed@blue">
+            </play>
+            <play pos="zz" res="ah" message="failed@blue">
+            </play>
+          </play>
+          <play pos="ai" res="ah" message="failed@blue">
+          </play>
+          <play pos="ah" res="af">
+            <play pos="ei" res="ag">
+              <play pos="ci" message="success@red">
+              </play>
+              <play pos="zz" res="ai" message="failed@blue">
+              </play>
+            </play>
+            <play pos="ag" res="ai" message="failed">
+            </play>
+            <play pos="zz" res="ag" message="failed">
+            </play>
+          </play>
+          <play pos="ag" res="af" message="failed-4 black stones can't escape@blue">
+          </play>
+          <play pos="af" res="ah">
+            <play pos="ag" res="ae" message="failed@blue">
+            </play>
+            <play pos="zz" res="ag" message="failed@blue">
+            </play>
+          </play>
+          <play pos="zz" res="ag" message="failed@blue">
+          </play>
+        </play>
+        <play pos="ai" res="ah" message="failed@blue">
+        </play>
+        <play pos="ah" res="af">
+          <play pos="di" res="ag">
+            <play pos="ci" message="success@red">
+            </play>
+            <play pos="ai" res="ci" message="failed@blue">
+            </play>
+            <play pos="zz" res="aa" message="failed@blue">
+            </play>
+          </play>
+          <play pos="ci" res="di">
+            <play pos="ei" res="ag">
+              <play pos="ci" message="success@red">
+              </play>
+              <play pos="zz" res="ai" message="failed@blue">
+              </play>
+            </play>
+            <play pos="ag" res="ai" message="failed@blue">
+            </play>
+            <play pos="aa" res="ag" message="failed@blue">
+            </play>
+            <play pos="zz" res="ag" message="failed-4 black stones can't escape@blue">
+            </play>
+          </play>
+          <play pos="ag" res="ai" message="failed@blue">
+          </play>
+          <play pos="zz" res="ag" message="failed@blue">
+          </play>
+        </play>
+        <play pos="ag" res="af">
+          <play pos="ah" res="ai" message="failed@blue">
+          </play>
+          <play pos="zz" res="ah" message="failed@blue">
+          </play>
+        </play>
+        <play pos="af" res="ah">
+          <play pos="ag" res="ae" message="failed@blue">
+          </play>
+          <play pos="zz" res="ag" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ag" message="failed@blue">
+        </play>
+      </play>
+      <play pos="ag" res="bh">
+        <play pos="af" res="ae" message="failed-You can't escape@blue">
+        </play>
+        <play pos="ah" res="af" message="failed-You can't escape@blue">
+        </play>
+        <play pos="ae" res="af" message="failed-You can't escape@blue">
+        </play>
+        <play pos="zz" res="ah" message="failed@blue">
+        </play>
+      </play>
+      <play pos="af" res="bh">
+        <play pos="ag" res="ae">
+          <play pos="ah" res="ai" message="failed@blue">
+          </play>
+          <play pos="zz" res="ah" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ag" message="failed@blue">
+        </play>
+      </play>
+      <play pos="zz" res="bh" message="failed-2 black stones can't escape@blue">
+      </play>
+  </sequence>
+</data>

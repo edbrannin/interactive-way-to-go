@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>hanenobi0</name>
+  <size>9</size>
+  <init>B[ff]W[fg]W[gf]</init>
+  <sequence>
+      <play pos="ef" message="Correct(A)@red">
+      </play>
+      <play pos="fe" message="Correct(B)@red">
+      </play>
+      <play pos="zz" res="ef" message="Failure@blue">
+      </play>
+  </sequence>
+</data>

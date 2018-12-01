@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>yose2</name>
+  <size>9</size>
+  <init>B[dd]B[de]B[df]B[dg]B[dh]B[eb]B[ec]B[ed]B[fa]B[fb]W[ee]W[ef]W[eg]W[eh]W[fc]W[fd]W[ga]W[gb]W[ge]W[di]</init>
+  <sequence>
+      <play pos="ci" res="ei" message="The job has not done yet@black">
+        <play pos="ch" message="success-You prevented the cut.@red">
+        </play>
+        <play pos="bh" message="success-You prevented the cut.@red">
+        </play>
+        <play pos="cg" message="success-You prevented the cut.@red">
+        </play>
+        <play pos="ah" res="ch">
+          <play pos="bi" res="bh">
+            <play pos="ai" res="ag" message="failed@blue">
+            </play>
+            <play pos="zz" res="ai" message="failed@blue">
+            </play>
+          </play>
+          <play pos="zz" res="bi" message="failed@blue">
+          </play>
+        </play>
+        <play pos="bi" res="ch">
+          <play pos="bh" message="half-success- but not good@red">
+          </play>
+          <play pos="cg" res="bh" message="failed@blue">
+          </play>
+          <play pos="zz" res="bh" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ch" message="White cut your stone!@black">
+          <play pos="bi" res="bh">
+            <play pos="ai" res="ah" message="failed@blue">
+            </play>
+            <play pos="zz" res="ai" message="failed@blue">
+            </play>
+          </play>
+          <play pos="zz" res="bi" message="failed@blue">
+          </play>
+        </play>
+      </play>
+      <play pos="gc" res="hc" message="failed-You can't do that.@blue">
+      </play>
+      <play pos="ei" res="fi" message="failed@blue">
+      </play>
+      <play pos="zz" res="ci" message="failed@blue">
+      </play>
+  </sequence>
+</data>

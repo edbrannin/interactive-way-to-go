@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>yose1</name>
+  <size>9</size>
+  <init>B[bd]B[cb]B[cc]B[cg]W[db]W[dc]B[dd]W[ec]B[ee]B[eg]W[fc]G[fe]W[gd]W[ge]W[gg]W[gh]</init>
+  <sequence>
+      <play pos="fh" message="success-Black got some territory on the bottom.@red">
+      </play>
+      <play pos="eh" res="fh" message="failed-Be more greedy!@blue">
+      </play>
+      <play pos="ei" res="fi" message="success-but not best@red">
+      </play>
+      <play pos="fi" res="gi" message="success-but not best@red">
+      </play>
+      <play pos="fg" res="ei" message="failed@blue">
+      </play>
+      <play pos="gf" res="ff" message="failed@blue">
+      </play>
+      <play pos="dh" res="fh" message="failed@blue">
+      </play>
+      <play pos="zz" res="eh" message="failed-You lost the bottom area.@blue">
+      </play>
+  </sequence>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>samplegame0</name>
+  <size>9</size>
+  <init></init>
+  <display_numbers>true</display_numbers>
+  <moves>
+    <play pos="de" message="Let's start around the center." ></play>
+    <play pos="fe" message="Black is on the left, so white goes on the right." ></play>
+    <play pos="dc" message="Going upper side..." ></play>
+    <play pos="fg" message="Then, white goes to bottom." ></play>
+    <play pos="dg" message="Black secured bottom left area." ></play>
+    <play pos="fc" message="Then, white occupies on the right side." ></play>
+    <play pos="fb" message="Black threatens to invade on the right." ></play>
+    <play pos="gb" message="You can't do that! White protects." ></play>
+    <play pos="eb" message="Black retreats for now." ></play>
+    <play pos="dh" message="Now white threatens the left area." ></play>
+    <play pos="ch" message="Black defends." ></play>
+    <play pos="eg" message="Attacking black's 5." ></play>
+    <play pos="df" message="Defend the 5 by connecting." ></play>
+    <play pos="hc" message="Prevent the cut at G7." ></play>
+    <play pos="eh" message="Atari on white 10." ></play>
+    <play pos="fh" message="White gave it up but prevented further invasion." ></play>
+    <play pos="di" message="Capture white because black 15 was also in Atari." ></play>
+    <play pos="ec" message="Approaching on the left side..." ></play>
+    <play pos="fi" message="Black also tries to invade on the right bottom." ></play>
+    <play pos="gi" message="White prevented it by attacking black 19." ></play>
+    <play pos="ei" message="Connecting the Atari stone." ></play>
+    <play pos="gh" message="Prevented the cut at G2." ></play>
+    <play pos="ee" message="Tries to go into the center while attacking on white 2" ></play>
+    <play pos="ed" message="White defended it and he also threatens on the left." ></play>
+    <play pos="dd" message="Defend it by firmly connecting black 3 and 1." ></play>
+    <play pos="fa" message="Making white's territory larger while reducing black's./It also aims the cut at D8." ></play>
+    <play pos="da" message="Defend the cut at D8." ></play>
+    <play pos="ef" message="Making white area a bit larger." ></play>
+    <play pos="ea" message="Atari on white 26." ></play>
+    <play pos="ga" message="Defend the 26 and the game is over./There are no places to earn for both sides." ></play>
+  </moves>
+</data>

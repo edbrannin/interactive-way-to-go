@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>corner2</name>
+  <size>9</size>
+  <init>B[fh]B[gh]W[gf]W[gg]W[he]B[hf]B[hg]W[hh]</init>
+  <sequence>
+      <play pos="ih" res="hi" message="White escapes@black">
+        <play pos="gi" res="if">
+          <play pos="ii" message="success@red">
+          </play>
+          <play pos="ig" res="ii" message="failed@blue">
+          </play>
+          <play pos="zz" res="ig" message="failed@blue">
+          </play>
+        </play>
+        <play pos="ii" res="ig" message="failed@blue">
+        </play>
+        <play pos="if" res="ie">
+          <play pos="ig" res="ii" message="failed@blue">
+          </play>
+          <play pos="zz" res="ig" message="failed@blue">
+          </play>
+        </play>
+        <play pos="ig" res="ie">
+          <play pos="gi" res="if">
+            <play pos="ii" message="success@red">
+            </play>
+            <play pos="zz" res="ii" message="failed@blue">
+            </play>
+          </play>
+          <play pos="ii" res="if" message="failed@blue">
+          </play>
+          <play pos="if" res="ii" message="failed@blue">
+          </play>
+          <play pos="zz" res="if" message="failed-4 blacks are dead@blue">
+          </play>
+        </play>
+        <play pos="ie" res="ig">
+          <play pos="if" res="id">
+            <play pos="ig" res="ii" message="failed@blue">
+            </play>
+            <play pos="zz" res="ig" message="failed@blue">
+            </play>
+          </play>
+          <play pos="zz" res="if" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ig" message="failed@blue">
+        </play>
+      </play>
+      <play pos="hi" res="ih" message="White escapes@black">
+        <play pos="ig" res="if" message="failed@blue">
+        </play>
+        <play pos="ii" res="gi" message="failed@blue">
+        </play>
+        <play pos="if" res="ie" message="failed-3 blacks dead@blue">
+        </play>
+        <play pos="ie" res="ig">
+          <play pos="if" res="id" message="failed@blue">
+          </play>
+          <play pos="zz" res="if" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="if" message="failed-2 blacks dead@blue">
+        </play>
+      </play>
+      <play pos="ie" res="ig">
+        <play pos="if" res="id" message="failed@blue">
+        </play>
+        <play pos="zz" res="if" message="failed@blue">
+        </play>
+      </play>
+      <play pos="ig" res="ih" message="failed-3 blacks can't escape@blue">
+      </play>
+      <play pos="if" res="ie">
+        <play pos="ig" res="ih" message="failed@blue">
+        </play>
+        <play pos="zz" res="ig" message="failed@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ig" message="failed-2 blacks can't escape@blue">
+      </play>
+  </sequence>
+</data>

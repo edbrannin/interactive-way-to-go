@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>shicho-1</name>
+  <size>9</size>
+  <init>B[be]B[bf]B[cg]W[cf]</init>
+  <sequence>
+      <play pos="df" res="ce" message="white escapes@black">
+        <play pos="cd" res="de">
+          <play pos="ee" res="dd">
+            <play pos="dc" res="ed">
+              <play pos="fd" res="ec" message="what's gonna happen?@black">
+                <play pos="eb" res="fc">
+                  <play pos="gc" res="fb">
+                    <play pos="fa" res="gb">
+                      <play pos="hb" res="ef" message="white strikes back!@black">
+                        <play pos="ga" message="success@red">
+                        </play>
+                        <play pos="dg" res="fe" message="failed@blue">
+                        </play>
+                        <play pos="zz" res="dg" message="failed@blue">
+                        </play>
+                      </play>
+                      <play pos="zz" res="hb" message="failed@blue">
+                      </play>
+                    </play>
+                    <play pos="gb" res="fa">
+                      <play pos="ea" res="ef" message="white strikes back!@black">
+                        <play pos="ga" message="success@red">
+                        </play>
+                        <play pos="dg" res="fe" message="failed@blue">
+                        </play>
+                        <play pos="zz" res="dg" message="failed@blue">
+                        </play>
+                      </play>
+                      <play pos="ga" res="ef" message="white strikes back!@black">
+                        <play pos="ea" message="success@red">
+                        </play>
+                        <play pos="dg" res="fe" message="failed@blue">
+                        </play>
+                        <play pos="zz" res="dg" message="failed@blue">
+                        </play>
+                      </play>
+                      <play pos="gd" res="cc" message="failed@blue">
+                      </play>
+                      <play pos="ge" res="cc" message="failed@blue">
+                      </play>
+                      <play pos="fe" res="cc" message="failed@blue">
+                      </play>
+                      <play pos="ff" res="cc" message="failed@blue">
+                      </play>
+                      <play pos="ef" res="cc" message="failed@blue">
+                      </play>
+                      <play pos="zz" res="fe" message="failed@blue">
+                      </play>
+                    </play>
+                    <play pos="gd" res="cc" message="failed@blue">
+                    </play>
+                    <play pos="ge" res="cc" message="failed@blue">
+                    </play>
+                    <play pos="fe" res="cc" message="failed@blue">
+                    </play>
+                    <play pos="ff" res="cc" message="failed@blue">
+                    </play>
+                    <play pos="ef" res="cc" message="failed@blue">
+                    </play>
+                    <play pos="zz" res="fe" message="failed@blue">
+                    </play>
+                  </play>
+                  <play pos="zz" res="gc" message="failed@blue">
+                  </play>
+                </play>
+                <play pos="zz" res="eb" message="failed@blue">
+                </play>
+              </play>
+              <play pos="zz" res="fd" message="failed@blue">
+              </play>
+            </play>
+            <play pos="zz" res="dc" message="failed@blue">
+            </play>
+          </play>
+          <play pos="zz" res="ee" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="cd" message="failed@blue">
+        </play>
+      </play>
+      <play pos="zz" res="df" message="failed@blue">
+      </play>
+  </sequence>
+</data>

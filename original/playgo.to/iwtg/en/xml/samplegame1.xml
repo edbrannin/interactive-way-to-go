@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>samplegame1</name>
+  <size>9</size>
+  <init></init>
+  <display_numbers>true</display_numbers>
+  <moves>
+    <play pos="ee" message="Going on the very center and looking around every corner!" ></play>
+    <play pos="ef" message="White attacks it by touching it." ></play>
+    <play pos="df" message="Black just slaps the attacker's side." ></play>
+    <play pos="de" message="Cutting between the two black stones./Because white is also cut already, the dog fight is enevitable!" ></play>
+    <play pos="cf" message="Extending one side to prepare for the fight./If black plays on D6 next, it can capture 4 because of the ladder chase." ></play>
+    <play pos="dd" message="That's too bad for white./So, white extends the 4." ></play>
+    <play pos="ed" message="Attacking two white stones while strengthening 1." ></play>
+    <play pos="dc" message="Extends it and defend it." ></play>
+    <play pos="ff" message="Atari on 2!" ></play>
+    <play pos="eg" message="Connect the 2." ></play>
+    <play pos="fg" message="Still attacking on two white stones." ></play>
+    <play pos="eh" message="Escapes..." ></play>
+    <play pos="ch" message="Surrounding white's three stones from bottom left." ></play>
+    <play pos="fe" message="Cut the black stones." ></play>
+    <play pos="fd" message="Atari on it." ></play>
+    <play pos="ge" message="Escapes...." ></play>
+    <play pos="gd" message="More attack" ></play>
+    <play pos="gf" message="Escaping toward the bottom area./While escaping, white attacks on 9 and 11." ></play>
+    <play pos="gg" message="Black fights back." ></play>
+    <play pos="hg" message="Kick it!" ></play>
+    <play pos="bd" message="Black changed his mind. /He now surrounds white's three stones on the upper left softly.../At the same time, it secures the group on the bottom left." ></play>
+    <play pos="fb" message="White extends toward the upper area and attacks on 4 black stones." ></play>
+    <play pos="he" message="Atari on 3 white stones." ></play>
+    <play pos="hf" message="Of course, he protects them." ></play>
+    <play pos="gb" message="Tries to create territory on the upper right area while attacking on 22." ></play>
+    <play pos="fc" message="Defend 22./Next, it can invade through G7." ></play>
+    <play pos="gc" message="Fixing the hole on G7./Now upper right area seems black's territory." ></play>
+    <play pos="bc" message="White builds territory on the upper left area." ></play>
+    <play pos="cc" message="Black jumps in between white stones." ></play>
+    <play pos="cd" message="White attacks the invader from outside./Atari!" ></play>
+    <play pos="cb" message="The invader goes into deeper." ></play>
+    <play pos="be" message="White almost captured 21." ></play>
+    <play pos="ec" message="Attacking on 22 and 26." ></play>
+    <play pos="db" message="He can't save them because of the invaders on the left./So, white gives up the two stones but attacks on the invaders instead." ></play>
+    <play pos="eb" message="Two white stones are almost captured." ></play>
+    <play pos="bb" message="Then, two black stones are almost captured." ></play>
+    <play pos="bf" message="Secure the bottom left corner area." ></play>
+    <play pos="hd" message="Capturing the 23." ></play>
+    <play pos="hc" message="Black gives up the 23 but has to prevent further invasion./38 is now in Atari." ></play>
+    <play pos="ie" message="Captured 23." ></play>
+    <play pos="dh" message="Making bottom left territory larger while attacking 3 white stones." ></play>
+    <play pos="ic" message="White still tries to invade on the upper side." ></play>
+    <play pos="ib" message="Defend it/42 is in Atari." ></play>
+    <play pos="id" message="Connecting 42." ></play>
+    <play pos="ce" message="By attacking 32, black forced white to capture 21." ></play>
+    <play pos="ad" message="Capture 21." ></play>
+    <play pos="ei" message="Black aims to invade on the right./At this time, black already gave up the 3 stones(9,11,19)." ></play>
+    <play pos="fi" message="Prevent the invasion" ></play>
+    <play pos="di" message="Connect 47." ></play>
+    <play pos="fh" message="Now white has to capture the 3 black stones for safety." ></play>
+    <play pos="dg" message="Black still attacks on white's 5 stones./If he plays on G2 next, he can capture the 5 stones." ></play>
+    <play pos="gh" message="Capture the three stones and now it's completely safe." ></play>
+    <play pos="af" message="Making bottom left corner as large as possible..." ></play>
+    <play pos="ea" message="Threatening to save the two white stones." ></play>
+    <play pos="fa" message="He captured them./54 is in Atari." ></play>
+    <play pos="da" message="Connect 54." ></play>
+    <play pos="ae" message="Atari on 32." ></play>
+    <play pos="bd" message="White connected it./Now the game was finished." ></play>
+  </moves>
+</data>

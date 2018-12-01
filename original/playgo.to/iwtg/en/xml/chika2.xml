@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>chika2</name>
+  <size>9</size>
+  <init>B[bf]W[bg]W[bh]W[cf]W[df]B[cg]B[dg]B[dh]W[ch]W[di]B[ee]B[ef]W[eg]W[gf]W[cd]</init>
+  <sequence>
+      <play pos="eh" res="fg">
+        <play pos="ce" res="be">
+          <play pos="de" message="success@red">
+          </play>
+          <play pos="af" res="de" message="failed-blacks are scattering@blue">
+          </play>
+          <play pos="zz" res="af" message="failed@blue">
+          </play>
+        </play>
+        <play pos="de" res="ce" message="failed-blacks are scattering@blue">
+        </play>
+        <play pos="be" res="ce" message="failed-blacks are scattering@blue">
+        </play>
+        <play pos="af" res="be" message="failed-blacks in the bottom are left alone@blue">
+        </play>
+        <play pos="ci" res="be">
+          <play pos="ei" res="fh" message="failed-blacks in the bottom are left alone@blue">
+          </play>
+          <play pos="bi" res="ai" message="failed-blacks in the bottom are left alone@blue">
+          </play>
+          <play pos="fh" res="gh" message="failed-blacks in the bottom are left alone@blue">
+          </play>
+          <play pos="gh" res="fh" message="failed-blacks in the bottom are left alone@blue">
+          </play>
+          <play pos="zz" res="bi" message="failed-blacks in the bottom are left alone@blue">
+          </play>
+        </play>
+        <play pos="zz" res="be" message="failed-blacks in the bottom are left alone@blue">
+        </play>
+      </play>
+      <play pos="zz" res="eh" message="failed@blue">
+      </play>
+  </sequence>
+</data>

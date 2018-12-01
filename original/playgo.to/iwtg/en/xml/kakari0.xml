@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>kakari0</name>
+  <size>13</size>
+  <init></init>
+  <moves>
+    <play pos="cc" message="" ></play>
+    <play pos="kk" message="" ></play>
+    <play pos="dj" message="" ></play>
+    <play pos="kd" message="">" ></play>
+  </moves>
+</data>

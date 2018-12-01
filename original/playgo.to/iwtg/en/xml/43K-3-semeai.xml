@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>43K-3-semeai</name>
+  <size>9</size>
+  <init>B[ac]B[bc]B[cc]W[ad]W[bd]W[cd]W[cf]W[cg]B[dd]B[de]W[dc]W[ec]W[fc]W[db]W[ca]</init>
+  <sequence>
+      <play pos="ce" res="be">
+        <play pos="bf" res="bg">
+          <play pos="ae" message="success@red">
+          </play>
+          <play pos="af" res="ag">
+            <play pos="ae" message="success@red">
+            </play>
+            <play pos="zz" res="ae" message="failed@blue">
+            </play>
+          </play>
+          <play pos="zz" res="af" message="failed@blue">
+          </play>
+        </play>
+        <play pos="zz" res="bf" message="failed@blue">
+        </play>
+      </play>
+      <play pos="cb" res="bb" message="failed@blue">
+      </play>
+      <play pos="ba" res="bb">
+        <play pos="ab" res="cb" message="failed@blue">
+        </play>
+        <play pos="cb" res="ab" message="failed@blue">
+        </play>
+        <play pos="zz" res="cb" message="failed@blue">
+        </play>
+      </play>
+      <play pos="be" res="ce" message="failed@blue">
+      </play>
+      <play pos="ae" res="ce" message="failed@blue">
+      </play>
+      <play pos="bf" res="ce" message="failed@blue">
+      </play>
+      <play pos="zz" res="cb" message="failed@blue">
+      </play>
+  </sequence>
+</data>

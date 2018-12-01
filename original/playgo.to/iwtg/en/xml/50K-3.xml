@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>50K-3</name>
+  <size>9</size>
+  <init>W[cd]B[ce]W[dc]B[dd]W[de]B[df]W[ef]W[bd]</init>
+  <sequence>
+      <play pos="ee" message="success@red">
+      </play>
+      <play pos="ed" res="ee" message="failed@blue">
+      </play>
+      <play pos="zz" res="ed" message="failed@blue">
+      </play>
+  </sequence>
+</data>
