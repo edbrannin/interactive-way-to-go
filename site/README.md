@@ -5,12 +5,19 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Interactive Way to Go (Javascript version)
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Powered by Gatsby
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+Reference links:
+
+* https://desgeeko.github.io/react-goban/
+    * How to detect captures in problems?  Find/implement a Go engine?  Mark them manually?
+* https://www.red-bean.com/sgf/sgf4.html#ebnf-def
+* https://www.gatsbyjs.org/docs/unit-testing/
+
+
 
 ## 🚀 Quick start
 
